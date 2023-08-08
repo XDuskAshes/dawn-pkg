@@ -1,0 +1,6 @@
+{
+    "ldisk",
+    "1.0.0",
+    "Lists disk info",
+    "https://raw.githubusercontent.com/XDuskAshes/dawn-pkg/main/src/ldisk/src/ldisk.lua"
+}

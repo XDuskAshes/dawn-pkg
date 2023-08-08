@@ -1,0 +1,20 @@
+{
+  "cat",
+  "cd",
+  "cls",
+  "copy",
+  "dfm",
+  "edit",
+  "help",
+  "label",
+  "login",
+  "ls",
+  "move",
+  "pkg",
+  "pwd",
+  "rm",
+  "sudo",
+  "sysmgr",
+  "touch",
+  "usr"
+}
