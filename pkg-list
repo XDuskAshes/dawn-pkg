@@ -1,6 +1,5 @@
 {
     [ "fetch" ] = "https://raw.githubusercontent.com/XDuskAshes/dawn-pkg/main/src/fetch/fetch",
     [ "ldisk" ] = "https://raw.githubusercontent.com/XDuskAshes/dawn-pkg/main/src/ldisk/ldisk",
-    [ "ink" ] = "https://raw.githubusercontent.com/XDuskAshes/dawn-pkg/main/src/ink/ink",
-    [ "per" ] = "https://raw.githubusercontent.com/XDuskAshes/dawn-pkg/pkgs/main/src/per/per",
+    [ "ink" ] = "https://raw.githubusercontent.com/XDuskAshes/dawn-pkg/main/src/ink/ink"
 }
