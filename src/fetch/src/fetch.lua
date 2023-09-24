@@ -4,7 +4,7 @@
     by dusk
 ]]
 
-local ver = fs.open("/stat/.dawninf", "r")
+local ver = fs.open("/etc/.dawninf", "r")
 local z = ver.readLine()
 ver.close()
 
@@ -12,3 +12,4 @@ dawn.dawnascii()
 print("")
 print("runtime",_HOST)
 print("lua",_VERSION)
+print(dawn.kernelver)
